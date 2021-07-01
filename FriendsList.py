@@ -1,3 +1,7 @@
+# Author: Spoked
+# Date: 07/01/2021
+# Shows the status of your Friends in League of Legends!
+
 from lcu_driver import Connector
 
 connector = Connector()
